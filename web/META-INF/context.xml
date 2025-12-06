@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/PRJ_ClotherOnline">
+<!--    <Parameter
+        name="org.apache.tomcat.util.http.fileupload.FileUploadBase.fileCountMax"
+        value="20"
+        override="false" />-->
+</Context>
